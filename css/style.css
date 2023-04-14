@@ -517,6 +517,8 @@ img {
 
 .media {
     margin-bottom: 16px;
+    font-weight: 500;
+    color: #ffffff;
 }
 
 .footer-socials {
