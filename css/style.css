@@ -190,19 +190,19 @@ img {
 */
 /* section */
 .hero {
-    /* max-width: 1440px;
-    margin: 0 auto; */
+    max-width: 1440px;
+    margin: 0 auto;
     padding-top: 188px;
     padding-bottom: 188px;
 
     text-align: center;
     background-color: var(--accent-color);
 
-    /* background-image: linear-gradient(rgba(46, 47, 66, 0.7),
+    background-image: linear-gradient(rgba(46, 47, 66, 0.7),
             rgba(46, 47, 66, 0.7)),
         url(../images/hero/people_office.jpg);
     background-repeat: no-repeat;
-    background-size: cover; */
+    background-size: cover;
 }
 
 /* h1 */
