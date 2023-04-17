@@ -576,7 +576,7 @@ img {
 
 /* p */
 .footer-subtitle {
-    width: 264px;
+    max-width: 264px;
 }
 
 /**
